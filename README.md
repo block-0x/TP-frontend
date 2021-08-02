@@ -1,7 +1,5 @@
 # frontend
 
-「rails-react-matching-app」のフロントエンド。
-
 ## セットアップ
 
 ```
